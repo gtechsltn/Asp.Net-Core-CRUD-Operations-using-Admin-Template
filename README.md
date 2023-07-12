@@ -14,3 +14,10 @@ Here's the Step by Step Tutorial => https://codinginfinite.com/crud-operations-a
 You can Create New Doctor Record, Read All, Update a Record & Delete.
 
 ![alt text](https://codinginfinite.com/wp-content/uploads/2018/11/Screenshot-2018-11-09-at-11.59.06-PM.png)
+
+
+** https://github.com/gtechsltn/Dapper.CX
+
+** https://github.com/gtechsltn/Asp.Net-Core-CRUD-Operations-using-Admin-Template
+
+** https://codinginfinite.com/crud-operations-asp-net-core-mvc-tutorial/
